@@ -1,0 +1,93 @@
+{
+    "info": {
+        "id": "61498",
+        "name": "Geetha Canteen",
+        "cloudinaryImageId": "d307f820c640fc02dd6242a358e69a79",
+        "locality": "Kalingarayan Street",
+        "areaName": "Gandhipuram",
+        "costForTwo": "₹100 for two",
+        "cuisines": [
+            "South Indian"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "feeDetails": {
+            "restaurantId": "61498",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4500
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4500
+        },
+        "parentId": "6459",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 7.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "36 mins",
+            "lastMileTravelString": "7.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-03 11:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹125 OFF",
+            "subHeader": "ABOVE ₹249",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/geetha-canteen-kalingarayan-street-gandhipuram-coimbatore-61498",
+        "type": "WEBLINK"
+    }
+}

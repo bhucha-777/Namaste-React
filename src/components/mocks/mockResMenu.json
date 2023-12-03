@@ -1,0 +1,1959 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "61501",
+                            "name": "Hyderabad Biriyani Hotel",
+                            "city": "Coimbatore",
+                            "slugs": {
+                                "restaurant": "hyderabad-biriyani-hotel-gn-mills-kavundampalayam",
+                                "city": "coimbatore"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "upaeed1jlrygqaxxuosd",
+                            "locality": "Nagapattinam",
+                            "areaName": "Kavundampalayam",
+                            "costForTwo": "20000",
+                            "costForTwoMessage": "₹200 for two",
+                            "cuisines": [
+                                "Hyderabadi",
+                                "Biryani"
+                            ],
+                            "avgRating": 4.2,
+                            "feeDetails": {
+                                "restaurantId": "61501",
+                                "fees": [
+                                    {
+                                        "name": "distance",
+                                        "fee": 2200
+                                    },
+                                    {
+                                        "name": "time"
+                                    },
+                                    {
+                                        "name": "special"
+                                    }
+                                ],
+                                "totalFee": 2200,
+                                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                                "message": "0.6 kms | ₹22 Delivery fee will apply"
+                            },
+                            "parentId": "4969",
+                            "avgRatingString": "4.2",
+                            "totalRatingsString": "5K+ ratings",
+                            "sla": {
+                                "restaurantId": "61501",
+                                "deliveryTime": 15,
+                                "minDeliveryTime": 15,
+                                "maxDeliveryTime": 15,
+                                "lastMileTravel": 0.6,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 474,
+                                "slaString": "15 MINS",
+                                "lastMileTravelString": "0.6 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2023-12-03 21:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "30% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "30% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "hyderabad-biriyani-hotel-gn-mills-kavundampalayam",
+                            "multiOutlet": true,
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Mettupalayam Road , Near BMN Kalyana Mandapam, Coimbatore"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Hyderabadi,Biryani"
+                                }
+                            ],
+                            "totalRatings": 5000,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "30% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "30% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "30% off up to ₹75 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹200 | Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/61501"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "text": "0.6 kms | ₹22 Delivery fee will apply",
+                                    "icon": {
+                                        "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_NON_FOOD_LM",
+                                    "enrichedText": "<b>0.6 kms</b> | ₹22 Delivery fee will apply",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    }
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "11.060165,76.94447500000001"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 4,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "30% OFF UPTO ₹75",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "ec64bfd9-2d07-4f83-a6e1-ff6538f2ad83"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE TRYNEW",
+                                            "description": "ABOVE ₹149",
+                                            "offerType": "offers",
+                                            "restId": "61501",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹200",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "offerIds": [
+                                                "7003aae7-309a-4645-a851-92d91b38c163"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "61501",
+                                            "offerLogo": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "15% OFF UPTO ₹300",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "offerIds": [
+                                                "c5a49660-022b-4e55-9a06-0f92550f3218"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE CITIFOODIE",
+                                            "description": "ABOVE ₹1200",
+                                            "offerType": "offers",
+                                            "restId": "61501",
+                                            "offerLogo": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹150 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/59ef5e58052532ad85a185bf516eccce",
+                                            "offerIds": [
+                                                "0a33ca5c-5efd-4ce1-942f-5d2a0914a80a"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AMEX150",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "61501",
+                                            "offerLogo": "rng/md/ads/production/59ef5e58052532ad85a185bf516eccce",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {},
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Biryani",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658819",
+                                                            "name": "Chicken Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Fragrant basmati rice cooked with tender chicken, aromatic spices, and herbs.",
+                                                            "imageId": "f86b8a20a16b0d161a5e870292f5df00",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "1784 ratings",
+                                                                    "ratingCountV2": "1784"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658822",
+                                                            "name": "Mutton Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Flavorful mutton and aromatic rice cooked together with traditional spices.",
+                                                            "imageId": "935c41b68e6bb294faf1db59797ba177",
+                                                            "inStock": 1,
+                                                            "price": 27000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "646 ratings",
+                                                                    "ratingCountV2": "646"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "58511040",
+                                                            "name": "Egg Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Savory biryani featuring boiled eggs and aromatic spices.",
+                                                            "imageId": "b0677e738567a7700bdf6c80cb3b4ca8",
+                                                            "inStock": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "126 ratings",
+                                                                    "ratingCountV2": "126"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "58887629",
+                                                            "name": "Prawn Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Delectable biryani with succulent prawns infused with fragrant spices.",
+                                                            "imageId": "3e308bd52f063234561f953697f90d8d",
+                                                            "inStock": 1,
+                                                            "price": 36000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "87 ratings",
+                                                                    "ratingCountV2": "87"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "58887630",
+                                                            "name": "Fish Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Aromatic rice combined with tender fish pieces and a blend of spices.",
+                                                            "imageId": "e16ceb3843caa5bf3ebdc4d6b860323d",
+                                                            "inStock": 1,
+                                                            "price": 36000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "92 ratings",
+                                                                    "ratingCountV2": "92"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915139",
+                                                            "name": "Tandoori Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Biryani infused with the smoky flavors of tandoor-cooked meat.",
+                                                            "imageId": "28f70a3ea8937757694ae80de047a7be",
+                                                            "inStock": 1,
+                                                            "price": 33000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Tandoori Items",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124914916",
+                                                            "name": "Tandoori",
+                                                            "category": "Tandoori Items",
+                                                            "description": "Half or full portions of tandoor-cooked meat, charred to perfection.",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "32648877",
+                                                                        "name": "Quantity",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 300,
+                                                                                "default": 1,
+                                                                                "id": "101266164",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 600,
+                                                                                "id": "101266165",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "32648877",
+                                                                                "variationId": "101266164"
+                                                                            }
+                                                                        ],
+                                                                        "price": 30000
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "32648877",
+                                                                                "variationId": "101266165"
+                                                                            }
+                                                                        ],
+                                                                        "price": 60000
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 30000,
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124914919",
+                                                            "name": "Pepper Tandoori",
+                                                            "category": "Tandoori Items",
+                                                            "description": "Tandoori meat with a peppery kick, in half or full portions.",
+                                                            "inStock": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "32648879",
+                                                                        "name": "Quantity",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Half",
+                                                                                "price": 330,
+                                                                                "default": 1,
+                                                                                "id": "101266169",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Full",
+                                                                                "price": 645,
+                                                                                "id": "101266170",
+                                                                                "inStock": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "32648879",
+                                                                                "variationId": "101266169"
+                                                                            }
+                                                                        ],
+                                                                        "price": 33000
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "32648879",
+                                                                                "variationId": "101266170"
+                                                                            }
+                                                                        ],
+                                                                        "price": 64500
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "defaultPrice": 33000,
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Starters",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658827",
+                                                            "name": "Chicken 65",
+                                                            "category": "Starters",
+                                                            "description": "Spicy and crispy fried chicken, a popular appetizer.",
+                                                            "imageId": "d3afb051105e7e9f1bf928e2dcb109bb",
+                                                            "inStock": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "244 ratings",
+                                                                    "ratingCountV2": "244"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007538",
+                                                            "name": "Egg Poriyal",
+                                                            "category": "Starters",
+                                                            "description": "A South Indian stir-fry featuring eggs with traditional spices.",
+                                                            "imageId": "48a219e9291695211b4587f1f365d917",
+                                                            "inStock": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007541",
+                                                            "name": "Garlic Chicken Dry",
+                                                            "category": "Starters",
+                                                            "description": "Chicken saut?ed with aromatic garlic, resulting in a flavorful dry dish.",
+                                                            "imageId": "dafb1be0cabe0a9348bdbdab42a49627",
+                                                            "inStock": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007545",
+                                                            "name": "Fish Pepper Fry",
+                                                            "category": "Starters",
+                                                            "description": "Fish chunks marinated and pan-fried with a peppery twist.",
+                                                            "imageId": "3dfe59c618b592050352f9153ee64c19",
+                                                            "inStock": 1,
+                                                            "price": 24000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007549",
+                                                            "name": "Prawn Pepper Fry",
+                                                            "category": "Starters",
+                                                            "description": "Prawns tossed with black pepper and spices for a robust flavor.",
+                                                            "imageId": "eadb7e6531e59d353c1517fae9478fa3",
+                                                            "inStock": 1,
+                                                            "price": 28500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "116182234",
+                                                            "name": "Pepper Chicken Dry",
+                                                            "category": "Starters",
+                                                            "description": "Succulent chicken cooked with black pepper for an extra kick.",
+                                                            "imageId": "f082581797bb685c1e33f157b9cf0611",
+                                                            "inStock": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "9 ratings",
+                                                                    "ratingCountV2": "9"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "117888946",
+                                                            "name": "Chicken Manchurian",
+                                                            "category": "Starters",
+                                                            "description": "Indo-Chinese fusion dish featuring batter-fried chicken in a tangy sauce.",
+                                                            "imageId": "6a96a1f545575c491fcde93a8048a9d5",
+                                                            "inStock": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345602",
+                                                            "name": "Chilly Fish",
+                                                            "category": "Starters",
+                                                            "description": "Crispy fish bites coated in a spicy chili-infused sauce.",
+                                                            "imageId": "78c28bb98c4728fc63c758fd4fafa0b6",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345604",
+                                                            "name": "Mushroom Chilly",
+                                                            "category": "Starters",
+                                                            "description": "Mushrooms saut?ed with spices and green chilies for a spicy kick.",
+                                                            "imageId": "0d0fe891ffa2cddc6c65dd20118ed3bd",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345605",
+                                                            "name": "Chilly Gobi",
+                                                            "category": "Starters",
+                                                            "description": "Cauliflower florets fried and coated with spicy chili sauce.",
+                                                            "imageId": "7f46265530981890541dcf64684c3632",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 13500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345609",
+                                                            "name": "Prawn Chilly",
+                                                            "category": "Starters",
+                                                            "description": "Stir-fried prawns in a spicy and tangy chili-based sauce.",
+                                                            "imageId": "fb0f5195f939ac0b166e6e20ad1f0cb9",
+                                                            "inStock": 1,
+                                                            "price": 28500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915142",
+                                                            "name": "Ginger Chicken Dry",
+                                                            "category": "Starters",
+                                                            "description": "Chicken dish infused with the zingy flavors of ginger.",
+                                                            "imageId": "3e5d0303982876cfb7da5194eae49c19",
+                                                            "inStock": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915143",
+                                                            "name": "Mutton Chukka (boneless)",
+                                                            "category": "Starters",
+                                                            "description": "Dry mutton preparation with bold spices and South Indian flavors.",
+                                                            "inStock": 1,
+                                                            "price": 27000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Gravy",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658834",
+                                                            "name": "Pepper Chicken Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Chicken curry infused with the warmth of black pepper.",
+                                                            "imageId": "af9a9a59e43fa1faf2358013b804544a",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "79 ratings",
+                                                                    "ratingCountV2": "79"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658835",
+                                                            "name": "Garlic Chicken Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Chicken curry with a rich garlic-based sauce.",
+                                                            "imageId": "73808651583d64abec2987a01a1caa4f",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007535",
+                                                            "name": "Mushroom Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Mushrooms in a savory gravy, perfect for vegetarians.",
+                                                            "imageId": "b773de7afba80e44f6fae3f4a5583c2a",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007536",
+                                                            "name": "Mushroom Pepper Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Mushroom curry with the bold flavors of black pepper.",
+                                                            "imageId": "9d616ae30926611dd86f06838ad81554",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007537",
+                                                            "name": "Egg Masala",
+                                                            "category": "Gravy",
+                                                            "description": "Eggs in a spiced gravy, a delicious vegetarian option.",
+                                                            "imageId": "9ae118c6c9d9dc302d8a84fa984f7407",
+                                                            "inStock": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.7",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007542",
+                                                            "name": "Ginger Chicken Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Chicken curry with the aromatic essence of ginger.",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007544",
+                                                            "name": "Mutton Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Rich and savory mutton curry cooked with authentic spices.",
+                                                            "imageId": "a18ef17f5c98294e150632b042a08b1c",
+                                                            "inStock": 1,
+                                                            "price": 27000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114007548",
+                                                            "name": "Prawn Masala",
+                                                            "category": "Gravy",
+                                                            "description": "Prawns cooked in a flavorful and aromatic gravy.",
+                                                            "imageId": "0e313d45e6440f0616d62d7a400c11d9",
+                                                            "inStock": 1,
+                                                            "price": 27000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "116182239",
+                                                            "name": "Hydrabad Chicken Gravy",
+                                                            "category": "Gravy",
+                                                            "description": "Flavorful chicken curry with a Hyderabadi touch.",
+                                                            "imageId": "0af68e969e09c055ca9e284d054ccb74",
+                                                            "inStock": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Fried Rice & Noodles",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658839",
+                                                            "name": "Veg Fried Rice",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "A medley of vegetables in fried rice, suitable for vegetarians.",
+                                                            "imageId": "9eb2dcfc691edeadd9c5e677788bdfae",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "74 ratings",
+                                                                    "ratingCountV2": "74"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658840",
+                                                            "name": "Egg Fried Rice",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Fried rice combined with scrambled eggs and veggies.",
+                                                            "imageId": "a717e808d75c5b41e3cd7461760ddd4b",
+                                                            "inStock": 1,
+                                                            "price": 19500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "71 ratings",
+                                                                    "ratingCountV2": "71"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658841",
+                                                            "name": "Chicken Fried Rice",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Stir-fried rice with tender chicken pieces and vegetables.",
+                                                            "imageId": "924122a5c870fbe5c7d9e8af1ce96bd7",
+                                                            "inStock": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "343 ratings",
+                                                                    "ratingCountV2": "343"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658842",
+                                                            "name": "Veg Noodles",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Vegetarian noodles with a variety of colorful vegetables.",
+                                                            "imageId": "91773676552d5fa7ad95cc47fa1e379e",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "24 ratings",
+                                                                    "ratingCountV2": "24"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658843",
+                                                            "name": "Egg Noodles",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Noodles with scrambled eggs and a mix of veggies.",
+                                                            "imageId": "953f4dc5ac74134d49ac06a05b307325",
+                                                            "inStock": 1,
+                                                            "price": 19500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "25 ratings",
+                                                                    "ratingCountV2": "25"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "15658844",
+                                                            "name": "Chicken Noodles",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Stir-fried noodles with chicken and assorted vegetables.",
+                                                            "imageId": "8f28ba3a441dc508e6823666d983a1ef",
+                                                            "inStock": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "103 ratings",
+                                                                    "ratingCountV2": "103"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "64191471",
+                                                            "name": "Mushroom Noodles",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Noodles tossed with mushrooms and vegetables.",
+                                                            "imageId": "90ad6960f2b588b534a424aae8c3693f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "116182251",
+                                                            "name": "Mushroom Fried Rice",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Flavored rice with saut?ed mushrooms and vegetables.",
+                                                            "imageId": "76da7894b8d1ee9ee5378efe8b209536",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "117888933",
+                                                            "name": "Paneer Fried Rice",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Rice stir-fried with paneer (Indian cottage cheese) and veggies.",
+                                                            "imageId": "9af0d8dd12280e9a2a42d431b2a4e85b",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915136",
+                                                            "name": "Paneer Noodles",
+                                                            "category": "Fried Rice & Noodles",
+                                                            "description": "Noodles combined with paneer and an assortment of veggies.",
+                                                            "imageId": "6dd162d53f58bd3c4931c78639049b4c",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Bread",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "117888924",
+                                                            "name": "Butter Naan",
+                                                            "category": "Bread",
+                                                            "description": "Naan with a buttery glaze, a classic choice.",
+                                                            "imageId": "8fc2077a08cd28f611646023356283d4",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "117888935",
+                                                            "name": "Naan",
+                                                            "category": "Bread",
+                                                            "description": "Soft and fluffy Indian bread, baked in a tandoor oven.",
+                                                            "imageId": "05dc82591b3348e75da27ac22b79e8e1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345607",
+                                                            "name": "Butter Rotti",
+                                                            "category": "Bread",
+                                                            "description": "Rotti brushed with butter for an indulgent touch.",
+                                                            "imageId": "569e24f8d9e47bfcd37330b97b9b3710",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5250,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "119345608",
+                                                            "name": "Rotti",
+                                                            "category": "Bread",
+                                                            "description": "Traditional Indian flatbread, typically made from whole wheat flour.",
+                                                            "imageId": "afc3378977e150b7e32af1a359fa2ec3",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 3750,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915138",
+                                                            "name": "Parotta 2 Pcs + Egg Masala",
+                                                            "category": "Bread",
+                                                            "description": "Layered flatbread served with spicy egg curry.",
+                                                            "imageId": "786804f7354695730a2047ea2f39b970",
+                                                            "inStock": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "124915140",
+                                                            "name": "Parotta 2 Pcs + Mix Veg Gravy",
+                                                            "category": "Bread",
+                                                            "description": "Flatbread paired with a flavorful mixed vegetable curry.",
+                                                            "imageId": "915058a9044492a0446843bacea6812f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 12418003002119"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Hyderabad Biriyani Hotel",
+                                            "area": "Kavundampalayam",
+                                            "completeAddress": "Mettupalayam Road , Near BMN Kalyana Mandapam, Coimbatore"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "3c80f3e2-edc8-42bf-9660-68caef73cc04",
+    "sid": "at46ea8b-4c82-4208-baea-478f91472a68",
+    "deviceId": "3e5c2cb6-4ef1-d02a-9bc3-1b3af350d78a",
+    "csrfToken": "8KVpE64DpZ9F-N3ihnZeja5ZXUgWu2YoR2nk_0h4"
+}
